@@ -1,5 +1,5 @@
 # Professional Writing Example
-4-step workflow: Draft → Verify → Refine → Human Sign-off
+4-step workflow: 1-Draft, 2-Verify, 3-Refine, 4-Human Sign-off
 
 ## 1. AI-Generated Draft
 > Subject: Urgent Budget Problem
