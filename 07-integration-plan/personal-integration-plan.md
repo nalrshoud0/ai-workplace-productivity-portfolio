@@ -2,8 +2,8 @@
 
 | Recurring Task | Benefit | Workflow | Risk / Verification | Frequency | Success Looks Like |
 |---|---|---|---|---|---|
-| Turn check-in notes into a status brief | Faster, more consistent updates | Status Brief Builder prompt → Human Review | AI may invent owners/dates — check against source | After each check-in | Brief ready in 15 min, no invented actions |
-| Draft stakeholder emails | Clear first draft, quick tone fixes | C.A.R.E. prompt → Draft-Verify-Refine-Sign-off | Wrong figures or tone — verify before sending | 1–2x/week | Email accurate and approved before send |
+| Turn check-in notes into a status brief | Faster, more consistent updates | Status Brief Builder prompt then Human Review | AI may invent owners/dates — check against source | After each check-in | Brief ready in 15 min, no invented actions |
+| Draft stakeholder emails | Clear first draft, quick tone fixes | C.A.R.E. prompt then Draft-Verify-Refine-Sign-off | Wrong figures or tone — verify before sending | 1–2x/week | Email accurate and approved before send |
 | Draft acceptance criteria from requirements | Surfaces gaps early | Requirements Extractor prompt | AI may add unsupported features — trace to source | Each requirements cycle | Criteria testable, stakeholders confirm |
 
 ## Habits I'll Build
