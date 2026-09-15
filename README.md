@@ -2,7 +2,7 @@
 
 ## Trainee Information
 - Trainee Name: Norah Alrshoud
-- Training Program: L0-FGP — Generative AI for Workplace Productivity
+- Training Program: Generative AI for Workplace Productivity
 - Instructor: Fahad Alqahtani
 - Date: September 13, 2026
 
