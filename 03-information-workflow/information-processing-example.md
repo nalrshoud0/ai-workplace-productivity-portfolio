@@ -10,7 +10,7 @@ Context: Raw check-in notes for the EAS pilot, read by the project sponsor. Acti
 ## 3. AI Output — First Draft
 | Action Item | Owner | Deadline | Status |
 |---|---|---|---|
-| Finish approval-limit config | IT | Oct 10 | In progress |
+| Finish approval-limit configuration | IT | Oct 10 | In progress |
 | Schedule manager training | Finance | Oct 10 | Planned |
 
 **Issue found on review:** config due date was only "almost done," not Oct 10. Manager training has no owner or date — Finance only flagged it, didn't take it on.
