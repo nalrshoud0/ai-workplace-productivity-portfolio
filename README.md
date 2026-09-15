@@ -2,9 +2,11 @@
 
 ## Trainee Information
 - Trainee Name: Norah Alrshoud
-- Training Program: Generative AI for Workplace Productivity
+- Training Academy: @SDAIAACademy
+- Course Code: L0-FGP
+- Course Name: Generative AI for Workplace Productivity
 - Instructor: Fahad Alqahtani
-- Date: September 13, 2026
+- Submission Date: September 15, 2026
 
 ## Project Overview
 This portfolio shows how a Business Analyst can use generative AI for prompting, writing, information processing, planning, and verification. All examples are tied to one fictional scenario: piloting an internal Expense Approval System (EAS).
