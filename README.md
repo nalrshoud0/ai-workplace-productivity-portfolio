@@ -2,7 +2,7 @@
 
 ## Trainee Information
 - Trainee Name: Norah Alrshoud
-- Training Academy: @SDAIAACademy
+- Training Academy: SDAIA Academy
 - Course Code: L0-FGP
 - Course Name: Generative AI for Workplace Productivity
 - Instructor: Fahad Alqahtani
