@@ -16,4 +16,4 @@
 | 3. Train & prepare | Schedule manager training; prepare support FAQ | Ready users |
 | 4. Decide | Brief sponsor; document go/no-go decision | Recorded decision |
 
-**Open items:** exact config completion date, training owner, and budget increase all need confirmation before Phase 3.
+**Open items:** exact configuration completion date, training owner, and budget increase all need confirmation before Phase 3.
